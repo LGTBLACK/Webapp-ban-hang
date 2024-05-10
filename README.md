@@ -2,6 +2,9 @@
 Giao diện sử dụng template có sẵn có thực các chỉnh sửa phù hợp với môn học. 
 các chức cơ bản: Thêm, sửa, xóa cho sản phẩm, đơn hàng, giỏ hàng, quản lí tài khoản, quản lí sản phẩm, quản lí đơn hàng.
 
+Sử dụng các ngôn ngữ lập trình : HTML, CSS, JS
+cơ sở dữ liệu: Local storge.
+
 Đăng nhập: 
 
 ![Đăng nhập](https://github.com/LGTBLACK/Webapp-ban-hang/assets/129674257/4f52db3c-8658-461d-b3d5-adb07965d8d9)
