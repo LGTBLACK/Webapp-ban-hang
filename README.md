@@ -2,8 +2,11 @@
 Giao diện sử dụng template có sẵn có thực các chỉnh sửa phù hợp với môn học. 
 các chức cơ bản: Thêm, sửa, xóa cho sản phẩm, đơn hàng, giỏ hàng, quản lí tài khoản, quản lí sản phẩm, quản lí đơn hàng.
 
-Sử dụng các ngôn ngữ lập trình : HTML, CSS, JS
-cơ sở dữ liệu: Local storge.
+sử dung Eclpice.
+Giao diện: HTML,CSS,JS, boostrap
+cơ sở dữ liệu: mongodb
+ứng dụng node js
+
 
 Đăng nhập: 
 
